@@ -1,1 +1,1 @@
-__all__ = ["testModule"]
+__all__ = ["myModule"]
